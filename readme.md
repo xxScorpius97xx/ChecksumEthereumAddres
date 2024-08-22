@@ -1,4 +1,5 @@
 #flask #web3.py #eth_utils #python #javascript #eip-55
+![Description](https://raw.githubusercontent.com/xxScorpius97xx/ChecksumEthereumAddres/main/Screenshot_20240823-022448.jpg)
 
 The Ethereum address checksum mechanism is regulated by Ethereum Improvement Proposal (EIP) 55. This proposal introduced checksummed addresses, which include both capital and lowercase letters. 
 
